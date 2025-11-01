@@ -1,7 +1,7 @@
 ### Hi! Welcome to my Github Page! 👋
 
-- 🌱 I’m a PhD Candidate in Economics at University of Houston
-- 🔭 I’m currently working on the effects of social networks on marijuana use, and consumer preferences for over the counter products.
-- 💬 Ask me about health economics, competition, and mezcal.
-- 📧 How to reach me: edloaeza@cougarnet.uh.edu
+- 🌱 I’m Vice President of Research at CWCI.
+- I hold a PhD in Economics from the University of Houston.
+- 🔭 I'm interested in health economics, public policy, labor economics, and antitrust.
+- 💬 Ask me about Oaxaca and mezcal.
 - 🌐 My personal wepage is: https://evaloaeza.com
